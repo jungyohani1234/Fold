@@ -1,0 +1,11 @@
+# Obsidian per-device state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.DS_Store
+
+# Add your sensitive files here so Replicate never backs them up.
+# Keep this in sync with wiki/_exclude.md.
+# e.g.:
+# Secrets/passwords.md
+# Personal/2FA codes.md

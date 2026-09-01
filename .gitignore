@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+
+# throwaway demo vaults used to test the pipeline
+.demo-vault/
+.demo-vault-assay/
+.demo-vault-dryrun/
+.demo-vault-code/
+.demo-vault-lint/
