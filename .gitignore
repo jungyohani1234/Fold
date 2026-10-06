@@ -7,3 +7,8 @@
 .demo-vault-dryrun/
 .demo-vault-code/
 .demo-vault-lint/
+
+# Secrets: never commit env files (templates stay allowed)
+.env
+.env.*
+!.env.example
